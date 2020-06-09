@@ -10,5 +10,7 @@ A formula de Haversine calcula a menor distância entre dois pontos em uma esfer
 
 ![haversine](https://user-images.githubusercontent.com/48635609/83162364-0aa62300-a0e0-11ea-9885-83ba1da1e4a5.png)
 
+![haversine](https://user-images.githubusercontent.com/48635609/84205771-33390000-aa84-11ea-8320-3114bf3ec7c6.jpg)
+
 onde φ1,φ2 é a latitude dos pontos e λ1,λ2 a longitude dos pontos.
 O resultado do cálculo é aproximado pois assumimos que a terra é uma esfera perfeita onde na verdade é uma esfera oblata.
